@@ -1,5 +1,5 @@
 #include <iostream>
-#include "primaLibreria.h"
+#include "lib.h"
 using namespace std;
 
 float x=0;
